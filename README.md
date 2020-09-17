@@ -1,9 +1,19 @@
 # **Hanssons Private Label**
-Comprehensive valuation and analysis of Hansson's Private Label case study from Harvard Business Review. This analysis was provided as a final project for capstone course FIN 6996: Corporate Finance at Mike Ilitch School of Business, Wayne State University. While this case study was assigned as a group project, **Kyle W. Brown completed 100% of the excel workbook.** 
+A comprehensive valuation and analysis of Hansson's Private Label case study from Harvard Business Review. This analysis was provided as a final project for capstone course FIN 6996: Corporate Finance at Mike Ilitch School of Business, Wayne State University. While this case study was assigned as a group project, **Kyle W. Brown completed 100% of the excel workbook.** 
 
 The following analysis and repo will contain 
 
-[HPL Investment Proposal](#hpl-investment-proposal)
+### Table of Contents
+* [Introduction]()
+* []()
+**Appendix**
+* [HPL Investment Proposal](#hpl-investment-proposal)
+* [HPL Financial Statements](#hpl-finanical-statements )
+* [HPL Cost of Capital](#hpl-cost-of-capital)
+* [HPL Income Statement Excel Workbook](#hpl-income-statement-excel-workbook)
+* [HPL Balance Sheet Excel Workbook](#hpl-balance-sheet-excel-workbook)
+* [HPL Cash Flow Statement Excel Workbook](#hpl-cash-flow-statement-excel-workbook)
+
 
 **HPL case study deliverables:**
 
@@ -68,7 +78,7 @@ The following analysis and repo will contain
   <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_bs.PNG"><br><br>
 </div>
 
-## HPL Cash FLow Statement Excel Workbook
+## HPL Cash Flow Statement Excel Workbook
 
 <div align="center">
   <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_cfs.PNG"><br><br>
