@@ -3,7 +3,7 @@ Comprehensive valuation and analysis of Hansson's Private Label case study from 
 
 [HPL Investment Proposal](#hpl-investment-proposal)
 
-**HPL case study will focus on the following deliverables:**
+**HPL case study deliverables:**
 
 * Recommendations to CFO Sheila Dowling, Robert Gates, and Tucker Hansson.
 * Industry breakdown.
