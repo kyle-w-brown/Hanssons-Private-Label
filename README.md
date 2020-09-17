@@ -10,5 +10,5 @@ Comprehensive valuation and analysis of Hansson's Private Label case study from 
 
 
 <div align="center">
-  <img src="https://extension.unh.edu/sites/default/files/field/image/CDC-coronavirus-image-23311-for-web.jpg"><br><br>
+  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL.PNG"><br><br>
 </div>
