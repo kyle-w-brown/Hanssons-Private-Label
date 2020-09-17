@@ -16,13 +16,19 @@ Comprehensive valuation and analysis of Hansson's Private Label case study from 
 
 # **Appendix**
 
+
+## **HPL Investment Proposal
 <div align="center">
   <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL-investment_proposal.PNG"><br><br>
 </div>
 
+## **HPL Finanical Statements 
+
 <div align="center">
   <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL-financial-statements.PNG"><br><br>
 </div>
+
+## **HPL Cost of Capital**
 
 <div align="center">
   <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL-cost-of-capital.PNG"><br><br>
