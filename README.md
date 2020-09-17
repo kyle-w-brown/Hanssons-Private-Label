@@ -8,3 +8,7 @@ Comprehensive valuation and analysis of Hansson's Private Label case study from 
 * Hansson’s position in the industry.
 * Evaluate Robert Gates assumptions.
 
+
+<div align="center">
+  <img src="https://extension.unh.edu/sites/default/files/field/image/CDC-coronavirus-image-23311-for-web.jpg"><br><br>
+</div>
