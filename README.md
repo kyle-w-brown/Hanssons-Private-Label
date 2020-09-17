@@ -6,7 +6,7 @@ The following analysis and repo will contain
 ### Table of Contents
 * [Introduction]()
 * []()
-**Appendix**
+#### Appendix
 * [HPL Investment Proposal](#hpl-investment-proposal)
 * [HPL Financial Statements](#hpl-finanical-statements )
 * [HPL Cost of Capital](#hpl-cost-of-capital)
