@@ -3,6 +3,8 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
 
 The following analysis and repo will contain 
 
+---
+
 ### Table of Contents
 * [Introduction]()
 * []()
@@ -14,6 +16,7 @@ The following analysis and repo will contain
 * [HPL Balance Sheet Excel Workbook](#hpl-balance-sheet-excel-workbook)
 * [HPL Cash Flow Statement Excel Workbook](#hpl-cash-flow-statement-excel-workbook)
 
+---
 
 **HPL case study deliverables:**
 
