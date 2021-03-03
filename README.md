@@ -1,14 +1,9 @@
 # **Hansson's Private Label**
 A comprehensive valuation and analysis of Hansson's Private Label case study from Harvard Business Review. This analysis was provided as a final project for capstone course FIN 6996: Corporate Finance at Mike Ilitch School of Business, Wayne State University. While this case study was assigned as a group project, **Kyle W. Brown completed 100% of the excel workbook.** 
 
-The following analysis and repo will contain 
-
 ---
 
 ### Table of Contents
-* [Introduction]()
-* []()
-#### Appendix
 * [HPL Investment Proposal](#hpl-investment-proposal)
 * [HPL Financial Statements](#hpl-finanical-statements )
 * [HPL Cost of Capital](#hpl-cost-of-capital)
