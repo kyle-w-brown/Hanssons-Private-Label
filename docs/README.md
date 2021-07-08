@@ -64,7 +64,7 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
 ## HPL Cost of Capital
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL-cost-of-capital.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/master/Images/HPL-cost-of-capital.PNG"><br><br>
 </div>
 
 
