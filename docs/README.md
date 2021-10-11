@@ -52,7 +52,7 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/master/Images/Wbk_apv.PNG" width="65%"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/master/Images/Wbk_apv.PNG" width="50%"><br><br>
 </div>
 
 
