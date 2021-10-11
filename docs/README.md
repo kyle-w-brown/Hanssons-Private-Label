@@ -12,7 +12,7 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
 
 # Hanssons Private Label - Case Study
 
-<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21166&authkey=AGhyVjGQK3QdI_A&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21166&authkey=AGhyVjGQK3QdI_A&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
 ### Table of Contents
 * [HPL Investment Proposal](#hpl-investment-proposal)
