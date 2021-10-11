@@ -29,23 +29,23 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
 
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL.PNG"><br><br>
 </div>
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_model.PNG"><br><br>
-</div>
-
-
-
-<div align="center">
-  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_wacc.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_model.PNG"><br><br>
 </div>
 
 
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_apv.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_wacc.PNG"><br><br>
+</div>
+
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_apv.PNG"><br><br>
 </div>
 
 
@@ -55,13 +55,13 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
 
 ## HPL Investment Proposal
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL-investment_proposal.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL-investment_proposal.PNG"><br><br>
 </div>
 
 ## HPL Finanical Statements 
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL-financial-statements.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/HPL-financial-statements.PNG"><br><br>
 </div>
 
 ## HPL Cost of Capital
@@ -74,7 +74,7 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
 ## HPL Income Statement Excel Workbook 
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_is.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_is.PNG"><br><br>
 </div>
 
 ## HPL Balance Sheet Excel Workbook
@@ -86,7 +86,7 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
 ## HPL Cash Flow Statement Excel Workbook
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_cfs.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/blob/master/Images/Wbk_cfs.PNG"><br><br>
 </div>
 
 
