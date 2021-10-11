@@ -49,10 +49,11 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
   <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/master/Images/Wbk_wacc.PNG" width="65%"><br><br>
 </div>
 
-
+<br>
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/master/Images/Wbk_apv.PNG" width="50%"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/Hanssons-Private-Label/master/Images/Wbk_apv.PNG" width="40%"><br><br>
 </div>
 
 
