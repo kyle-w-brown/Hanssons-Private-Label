@@ -14,7 +14,7 @@ A comprehensive valuation and analysis of Hansson's Private Label case study fro
 # Hanssons Private Label - Case Study
 
 <div align="center">
-<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21166&authkey=AGhyVjGQK3QdI_A&em=2" width="700" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21166&authkey=AGhyVjGQK3QdI_A&em=2" width="700" height="700" frameborder="0" scrolling="no"></iframe>
 </div>
   
 ### Table of Contents
